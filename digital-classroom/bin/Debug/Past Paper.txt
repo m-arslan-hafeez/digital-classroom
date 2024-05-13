@@ -1,0 +1,33 @@
+	Past Paper
+
+1. A system program that sets up an executable program in main memory ready for execution is
+  assembler
+  linker
+  loader
+  compiler
+
+  C ✔
+
+2. The principle of locality of reference justifies the use of
+  reenterable
+  non reusable
+  virtual memory
+  cache memory
+
+  D ✔
+
+3. Resolution of externally defined symbols is performed by
+  Linker
+  Loader
+  compiler
+  Assembler
+
+  A ✔
+
+4. Which of the following are(is) Language Processor(s)
+  assembles
+  compilers
+  interpreters
+  All of above
+
+  D ✔
